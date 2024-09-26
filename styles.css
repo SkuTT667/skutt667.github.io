@@ -9,5 +9,7 @@ body {
 
 main {
     background-color: bisque;
+    display: flex;
+    position: absolute;
     text-align: center;
 }
